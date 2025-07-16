@@ -90,6 +90,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/muskke/muskke/output/github-contribution-grid-snake.svg" />
 </p>
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/muskke/muskke/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/muskke/muskke/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/muskke/muskke/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 
 ---
 
