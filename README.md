@@ -25,7 +25,7 @@
 
 </div>
 
----
+<br>
 
 ### 🚀 My Tech Universe
 
@@ -70,8 +70,8 @@
 
 </div>
 
+<br>
 
----
 
 ### 🏗️ Featured Projects (Abstracted)
 
@@ -91,7 +91,7 @@
 
 </div>
 
----
+<br>
 
 ### 📊 GitHub Analytics
 
@@ -101,7 +101,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskke&layout=compact&theme=radical&card_width=1000" width="1000" style="max-width: 100%;" />
 </div>
 
----
+<br>
 
 ### 🏆 GitHub Trophy Wall
 
@@ -109,8 +109,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=muskke&theme=onedark&no-frame=true&margin-w=150&row=2&column=4" />
 </p>
 
+<br>
 
----
 
 ### 🐍 Contribution Activity
 
