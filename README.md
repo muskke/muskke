@@ -128,16 +128,17 @@
 ### 🌐 Let’s Connect
 
 <div align="center">
-  <a href="https://x.com/musk_ke" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:muskke@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/muskke">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-</div>
+    <a href="https://x.com/musk_ke"><img src="https://img.shields.io/badge/Twitter-推特-blue&" /></a>&emsp;
+    <a href="https://www.youtube.com/@musk-ke"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://blog.2025178.xyz"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://wechat.2025178.xyz"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/24136666/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=muskke&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <!-- wakatime -->    
+    <a href="https://wakatime.com/@username"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+
+  </div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7F00FF,100:00FFC6&section=footer" />
